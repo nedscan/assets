@@ -1,9 +1,15 @@
 {
   "name": "DEDT INI",
   "symbol": "DEDT",
-  "type": "NED20",
+  "type": "ERC20",
   "decimals": 18,
+  "description": "it is a great time",
   "website": "https://dedtopera.com",
-  "description": "it is a great time ",
-  "status": "active"
+  "status": "active",
+  "links": [
+    {
+      "name": "explorer",
+      "url": "https://nedscan.com/token/0x410327e40467a542a35a33e51e6107be5dfd42ad"
+    }
+  ]
 }
