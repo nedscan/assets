@@ -1,0 +1,28 @@
+{
+  "name": "Vingo",
+  "type": "NED-20",
+  "symbol": "VNG",
+  "decimals": 18,
+  "website": "https://t.com",
+  "description": "a good",
+  "explorer": "https://nedscan.com/token/0x2ca2fd4a35c57291fc35c47900944a27cf52d493",
+  "status": "active",
+  "id": "0x2ca2fd4a35c57291fc35c47900944a27cf52d493",
+  "links": {
+    "github": "",
+    "twitter": "https://x.com/t",
+    "telegram": "",
+    "discord": "",
+    "medium": "",
+    "reddit": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "tags": [
+    "Defi"
+  ],
+  "verified": false
+}
