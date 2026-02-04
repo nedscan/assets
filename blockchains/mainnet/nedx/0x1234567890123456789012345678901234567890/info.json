@@ -1,0 +1,29 @@
+{
+  "name": "Test Token",
+  "type": "NED-20",
+  "symbol": "TEST",
+  "decimals": 18,
+  "website": "https://test.com",
+  "description": "Test token for webhook system verification",
+  "explorer": "https://nedscan.com/token/0x1234567890123456789012345678901234567890",
+  "status": "active",
+  "id": "0x1234567890123456789012345678901234567890",
+  "links": {
+    "github": "",
+    "twitter": "https://x.com/testtoken",
+    "telegram": "https://t.me/testtoken",
+    "discord": "",
+    "medium": "",
+    "reddit": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "tags": [
+    "DeFi",
+    "Test"
+  ],
+  "verified": false
+}
