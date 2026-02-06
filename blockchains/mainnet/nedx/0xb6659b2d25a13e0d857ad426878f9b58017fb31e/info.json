@@ -1,11 +1,29 @@
 {
   "name": "DEDT INI",
+  "type": "NED-20",
   "symbol": "DEDT",
-  "type": "NED20",
   "decimals": 18,
-  "description": "have a good time for the first thing",
+  "website": "https://dedent.com",
+  "description": "DEDT is a utility token for payments, rewards, and DeFi on its ecosystem, designed for fast, low-fee transfers.",
+  "explorer": "https://nedscan.com/token/0xb6659b2d25a13e0d857ad426878f9b58017fb31e",
+  "status": "active",
+  "id": "0xb6659b2d25a13e0d857ad426878f9b58017fb31e",
   "links": {
-    "website": "https://dedtopera.com"
+    "github": "https://github.com/dedt-labs",
+    "twitter": "https://x.com/DEDT_Official",
+    "telegram": "https://t.me/DEDTCommunity",
+    "discord": "https://discord.gg/dedt-official",
+    "medium": "https://medium.com/@dedt",
+    "reddit": "https://www.reddit.com/r/DEDTtoken",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethereum",
+    "coingecko": ""
   },
-  "status": "active"
+  "tags": [
+    "DAO",
+    "Staking"
+  ],
+  "verified": false
 }
