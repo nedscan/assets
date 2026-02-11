@@ -1,0 +1,28 @@
+{
+  "name": "Bitcoin Bridged NEDX from BNB",
+  "type": "NED-20",
+  "symbol": "BTC.n",
+  "decimals": 18,
+  "website": "https://dexned.com",
+  "description": "BTC.n represents the Bitcoin-denominated asset within the NEDX ecosystem, built to enable efficient on-chain transfers and integration with DeFi features such as swaps, liquidity, and trading pairs. BTC.n provides a streamlined way to use BTC-based value inside NEDX applications while benefiting from fast confirmations, low friction transactions, and ecosystem-wide interoperability. It is commonly used for market pairs, portfolio exposure, and ecosystem settlement.",
+  "explorer": "https://nedscan.com/token/0x71c8439a4b66a7a6188b35c2f50600dedb1a8508",
+  "status": "active",
+  "id": "0x71c8439a4b66a7a6188b35c2f50600dedb1a8508",
+  "links": {
+    "github": "",
+    "twitter": "https://x.com/dexned",
+    "telegram": "",
+    "discord": "",
+    "medium": "",
+    "reddit": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "tags": [
+    "Bridged Cross-Border BNB"
+  ],
+  "verified": false
+}
