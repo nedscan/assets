@@ -1,0 +1,28 @@
+{
+  "name": "USD Coin Bridged NEDX from BNB",
+  "type": "NED-20",
+  "symbol": "USDC.n",
+  "decimals": 18,
+  "website": "https://dexned.com",
+  "description": "USDC.n is a USD-denominated asset within the NEDX ecosystem, designed for practical on-chain settlement and stable unit accounting across dApps. It is commonly used as a quote asset for trading pairs, liquidity pools, pricing references, and ecosystem payments. USDC.n emphasizes a consistent and predictable on-chain representation, enabling users and applications to exchange value efficiently across the NEDX network.",
+  "explorer": "https://nedscan.com/token/0x1f799c4700a3daf639f42fef19a791c3ff9f50f6",
+  "status": "active",
+  "id": "0x1f799c4700a3daf639f42fef19a791c3ff9f50f6",
+  "links": {
+    "github": "",
+    "twitter": "https://x.com/dexned",
+    "telegram": "https://t.me/dexned",
+    "discord": "",
+    "medium": "",
+    "reddit": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "tags": [
+    "Bridged Cross-Border BNB"
+  ],
+  "verified": false
+}
